@@ -1,0 +1,6 @@
+[submodule "sci-fi-waves"]
+	path = sci-fi-waves
+	url = git@github.com:yrnmske/sci-fi-waves.git
+[submodule "sci-fi-rubiks-cube"]
+	path = sci-fi-rubiks-cube
+	url = git@github.com:yrnmske/sci-fi-rubiks-cube.git
